@@ -1,7 +1,5 @@
 # Blackjack
 
-WorkShop3
-
 Instructions for running the program:
 
 1- Make a new Java project in your IDE.
